@@ -1,3 +1,4 @@
+package LogicTasks;
 import java.util.Scanner;
 
 // Find square of triangle by 3 points 
